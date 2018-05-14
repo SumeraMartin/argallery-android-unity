@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 26074b15f9c13404d858bfedb8b8c00c
+timeCreated: 1502419589
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FirstPersonCamera: {instanceID: 0}
+  - trackedPlanePrefab: {fileID: 1225121929498820, guid: e0eb7228145534263bf12f48b4750db1,
+      type: 2}
+  - trackingPoint: {instanceID: 0}
+  - wall: {instanceID: 0}
+  - picture: {instanceID: 0}
+  - bottomSheetMenuForWallsPlacedState: {instanceID: 0}
+  - closeButton: {instanceID: 0}
+  - menuIcon: {instanceID: 0}
+  - wallsAddingCompleteButton: {instanceID: 0}
+  - anchorPicture: {instanceID: 0}
+  - releasePicture: {instanceID: 0}
+  - clickableOverlay: {instanceID: 0}
+  - togglWallsVisibilityButton: {instanceID: 0}
+  - screenOverlay: {instanceID: 0}
+  - initialTrackingDescription: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
